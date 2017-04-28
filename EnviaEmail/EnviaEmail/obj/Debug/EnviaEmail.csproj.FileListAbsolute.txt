@@ -1,0 +1,50 @@
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\obj\Debug\EnviaEmail.csprojResolveAssemblyReference.cache
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\EnviaEmail.dll.config
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\EnviaEmail.dll
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\EnviaEmail.pdb
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\System.Web.Helpers.dll
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\System.Web.Mvc.dll
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\System.Web.Razor.dll
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\System.Web.Webpages.Deployment.dll
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\System.Web.Webpages.dll
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\System.Web.Webpages.Razor.dll
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\System.Web.Razor.xml
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\System.Web.Webpages.xml
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\System.Web.Webpages.Deployment.xml
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\System.Web.Webpages.Razor.xml
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\System.Web.Helpers.xml
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\System.Web.Mvc.xml
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\pt-br\System.Web.Razor.resources.dll
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\pt-br\System.Web.Webpages.resources.dll
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\pt-br\System.Web.Helpers.resources.dll
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\bin\pt-br\System.Web.Mvc.resources.dll
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\obj\Debug\EnviaEmail.dll
+c:\users\uc14100729.slab\documents\visual studio 2013\Projects\EnviaEmail\EnviaEmail\obj\Debug\EnviaEmail.pdb
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\EnviaEmail.dll.config
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\EnviaEmail.dll
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\EnviaEmail.pdb
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\System.Web.Helpers.dll
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\System.Web.Mvc.dll
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\System.Web.Razor.dll
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\System.Web.Webpages.dll
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\System.Web.Webpages.Razor.dll
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\System.Web.Razor.xml
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\System.Web.Webpages.xml
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\System.Web.Webpages.Razor.xml
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\System.Web.Helpers.xml
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\System.Web.Mvc.xml
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\obj\Debug\EnviaEmail.csprojResolveAssemblyReference.cache
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\obj\Debug\EnviaEmail.dll
+C:\Users\mauriciojunior\Desktop\EnviaEmail\EnviaEmail\obj\Debug\EnviaEmail.pdb
